@@ -41,3 +41,11 @@ http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8?chec
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8?checkedby:zaltv.co
 #EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="Finland",Yle TV2
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Finland",Long term Finland IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="Finland",Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="Finland",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="Finland",Yle TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8?checkedby:zaltv.co
